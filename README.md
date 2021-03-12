@@ -9,9 +9,9 @@ example .gif of generation process:
 
 <div style="display: inline-block">
     <img style="float: left;" src="examples/gifs/005f.gif?raw=true" width="200" height="200" alt="Biome Growth Process">
-    <img style="float: left;" width="30" height="200" alt="blank">
+    <img style="float: left;" src="examples/blank.png?raw=true" width="50" height="200" alt="blank">
     <img style="float: left;" src="examples/gifs/006f.gif?raw=true" width="200" height="200" alt="Biome Growth Process">
-    <img style="float: left;" width="30" height="200" alt="blank">
+    <img style="float: left;" src="examples/blank.png?raw=true" width="50" height="200" alt="blank">
     <img style="float: left;" src="examples/gifs/007f.gif?raw=true" width="200" height="200" alt="Biome Growth Process">
 </div>
 
