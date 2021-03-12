@@ -7,11 +7,13 @@ It builds a command line application that opens up a window showing the generati
 
 example .gif files of generation process:
 
+
 <div style="display: inline-block">
     <img style="float: left;" src="examples/gifs/005f.gif?raw=true" width="200" height="200" alt="Biome Growth Process">
     <img style="float: left;" src="examples/gifs/006f.gif?raw=true" width="200" height="200" alt="Biome Growth Process">
     <img style="float: left;" src="examples/gifs/007f.gif?raw=true" width="200" height="200" alt="Biome Growth Process">
 </div>  
+  
   
 This is one module of a series used on Unity3D to generate island meshes. Other modules adapted for C#.net can be seen in the following links:
 [Island Shape - previous](https://github.com/brunorc93/islandShapeGen.net)  
