@@ -5,7 +5,7 @@ It can be compiled with .net sdk 5 using ``dotnet build`` or ``dotnet run`` in t
 
 It builds a command line application that opens up a window showing the generation process if wanted (this causes it to run at a slower speed to be able to showcase the entire process).
 
-example .gif of generation process:
+example .gif files of generation process:
 
 <div style="display: inline-block">
     <img style="float: left;" src="examples/gifs/005f.gif?raw=true" width="200" height="200" alt="Biome Growth Process">
