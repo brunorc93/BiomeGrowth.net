@@ -7,17 +7,15 @@ It builds a command line application that opens up a window showing the generati
 
 example .gif of generation process:
 
-<div style="display: inline-block">
-    <img style="float: left;" src="examples/gifs/005f.gif?raw=true" width="200" height="200" alt="Biome Growth Process">
-    <img style="float: left;" src="examples/blank.png?raw=true" width="50" height="200" alt="blank">
-    <img style="float: left;" src="examples/gifs/006f.gif?raw=true" width="200" height="200" alt="Biome Growth Process">
-    <img style="float: left;" src="examples/blank.png?raw=true" width="50" height="200" alt="blank">
-    <img style="float: left;" src="examples/gifs/007f.gif?raw=true" width="200" height="200" alt="Biome Growth Process">
+<div style="display: flex; flex-direction: row; justify-content: space-between; flex-wrap: wrap;">
+    <img src="examples/gifs/005f.gif?raw=true" width="200" height="200" alt="Biome Growth Process">
+    <img src="examples/gifs/006f.gif?raw=true" width="200" height="200" alt="Biome Growth Process">
+    <img src="examples/gifs/007f.gif?raw=true" width="200" height="200" alt="Biome Growth Process">
 </div>
 
 This generates biomes through the RGB channels of a bitmap using the R channel as the key value as it is different for each node, where B and G values are just random (having a slight chance of having 2 nodes with same B or G value). The results can be seen in the following images:
 
-<div style="display: inline-block">
+<div style="display: flex; flex-direction: row; justify-content: flex-start; flex-wrap: wrap;">
   <img style="float: left;" src="examples/000_.png?raw=true" width="100" height="100" alt="Example of grown biomes">
   <img style="float: left;" src="examples/001_.png?raw=true" width="100" height="100" alt="Example of grown biomes">
   <img style="float: left;" src="examples/002_.png?raw=true" width="100" height="100" alt="Example of grown biomes">
