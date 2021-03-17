@@ -14,8 +14,6 @@ example .gif files of generation process:
     <img style="float: left;" src="examples/gifs/007f.gif?raw=true" width="200" height="200" alt="Biome Growth Process">
 </div>  
 
-<br/>
-
 ---------------------------------------------------------------------------
 This is one module of a series used on Unity3D to generate island meshes. Other modules adapted for C#.net can be seen in the following links:
 > [Island Shape - previous](https://github.com/brunorc93/islandShapeGen.net)  
@@ -25,6 +23,7 @@ This is one module of a series used on Unity3D to generate island meshes. Other 
 > (more links will be added as soon as the modules are ported onto C#.net for ease of use).  
 
 The full Unity Project can be followed [here](https://github.com/brunorc93/procgen) 
+
 --------------------------------------------------------------------------- 
 
 This module generates biomes through the RGB channels of a bitmap using the R channel as the key value as it is different for each node, where B and G values are just random (having a slight chance of having 2 nodes with same B or G value). The results can be seen in the following images:
