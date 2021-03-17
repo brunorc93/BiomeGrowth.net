@@ -124,8 +124,8 @@ public class BiomeGenerator
         {
           for (int j=0; j<size; j++)
           {
-            float x = (float)i*0.39f;
-            float y = (float)j*0.39f;
+            float x = (float)i*0.39f*0.39f;
+            float y = (float)j*0.39f*0.39f;
             float newValue = Abs(perlin.Noise(x+perlinPoint[a].x,y+perlinPoint[a].y));
             float m = 1f;
             for (int k=0; k<5; k++)
@@ -268,7 +268,7 @@ public class BiomeGenerator
         green = rnd.Next(0,255);
         blue = rnd.Next(0,255);
     } }
-//         common -----------*normalize-these--
+//         common ----------- // here - normalize-these--
     void CallDebug(string text)
     {
       if (debugging) { Console.WriteLine(updateCount.ToString("D5")+" BG"+generation_phase.ToString("D3")+"."+auxValue.ToString("D4")+"."+roundNumber.ToString("D2")+", "+text); }
