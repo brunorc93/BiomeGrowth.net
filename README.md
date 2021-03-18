@@ -16,9 +16,9 @@ example .gif files of generation process:
 
 ---------------------------------------------------------------------------
 This is one module of a series used on Unity3D to generate island meshes. Other modules adapted for C#.net can be seen in the following links:
-> [Island Shape - previous](https://github.com/brunorc93/islandShapeGen.net)  
-> [Noise - next](https://github.com/brunorc93/noise)  
-> [empty repo](empty repo)  
+* [Island Shape - previous](https://github.com/brunorc93/islandShapeGen.net)  
+* [Noise - next](https://github.com/brunorc93/noise)  
+* [empty repo](empty repo)  
 
 > (more links will be added as soon as the modules are ported onto C#.net).  
 
