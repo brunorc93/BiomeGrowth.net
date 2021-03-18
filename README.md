@@ -1,6 +1,6 @@
 # Biome Growth Machine
 
-This was coded with C# initially for Unity3D and then adapted for C#.net due to low dependency on Unity and ease of showing the results. 
+This was coded with C# initially for Unity3D and then adapted for C#.net. 
 It can be compiled with .net sdk 5 using ``dotnet build`` or ``dotnet run`` in the my-app folder through the command line.
 
 It builds a command line application that opens up a window showing the generation process if wanted (this causes it to run at a slower speed to be able to showcase the entire process).
