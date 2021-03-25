@@ -19,6 +19,7 @@ This is one module of a series used on Unity3D to generate island meshes. Other 
 * [Island Shape - previous](https://github.com/brunorc93/islandShapeGen.net)  
 * [Noise - next](https://github.com/brunorc93/noise)    
 * [HQ2nxNoAA](https://github.com/brunorc93/HQnx-noAA.net)  
+* [Generator preview - minimap](https://github.com/brunorc93/minimap)
 
 > (more links will be added as soon as the modules are ported onto C#.net).  
 
